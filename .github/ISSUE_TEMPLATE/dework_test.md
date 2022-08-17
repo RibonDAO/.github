@@ -2,7 +2,7 @@
 Just follow the contribution flow :D
 
 ## Some attention points
-* Make sure the entire file is covered
+* Make sure the entire file is covered.
 To do so, you can run yarn testCoverage and see if the file you're updating or creating has 100%.
 * We have a testUtils with our custom functions. 
 Don't forget to use them in place of "testing-library/react" functions.
