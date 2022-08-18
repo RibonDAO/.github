@@ -1,3 +1,12 @@
+---
+name: Test template
+about: Add tests to increase coverage
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Details
 Add tests to the component <name> to increase test coverage and ensure that the component works well
 
