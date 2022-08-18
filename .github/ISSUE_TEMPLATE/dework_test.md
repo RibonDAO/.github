@@ -22,7 +22,7 @@ Check [Ribon Docs](https://ribondao.github.io/docs/) to learn what is Ribon, how
 
 ## Get rewarded in USDC
 We have USDC bountys for all our issues on Github. If you want to get rewarded for solving this issue just follow these steps:
-- Click on ---this link--- to access this issue on Ribons Dework.
+- Click on [this link](https://app.dework.xyz/ribon/ribon-dao-english/overview) to access this issue on Ribons Dework.
 - Log in using your Github account, and add your metamask wallet.
 - Make sure you're in the right issue, then click on "submit work" to apply.
 - You'll be added to our discord and a thread will be automaticaly created so you can talk with the reviewer. You can ask questions or simply ask to work on the issue and we will assign it to you.
